@@ -83,6 +83,3 @@ THE SOFTWARE.
 
 ---
 
-This README includes a description of the project, how to use it, a brief explanation of the code, and the MIT license. Make sure to replace `your-username` with your actual GitHub username in the clone URL section.
-
-Let me know if you'd like to add anything else!
